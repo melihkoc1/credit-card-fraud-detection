@@ -2,6 +2,8 @@
 
 Fraud detection on the Kaggle *Credit Card Fraud Detection* dataset, with the evaluation designed around two practical questions: does the result hold when the model is tested on *later* transactions, and how many alerts must an analyst review to catch most fraud?
 
+The emphasis is on honest evaluation rather than a leaderboard score: duplicates are removed before splitting, the split is by time, the test set is used once, and limitations are stated next to the results.
+
 Kaggle notebook: <KAGGLE_LINKI>
 
 ## Problem and business context
